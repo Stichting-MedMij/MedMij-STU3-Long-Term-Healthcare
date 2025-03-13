@@ -1,0 +1,68 @@
+{
+	"resourceType": "NutritionOrder",
+	"id": "zib-NutritionAdvice-medmij-bgz-test-patA-nutrition1",
+	"meta": {
+		"extension": [
+			{
+				"url": "http://hapifhir.io/fhir/StructureDefinition/resource-meta-source",
+				"valueUri": "#28e733f78612f6f8"
+			}
+		],
+		"versionId": "1",
+		"lastUpdated": "2025-02-28T06:52:37.868+00:00",
+		"profile": [
+			"http://nictiz.nl/fhir/StructureDefinition/zib-NutritionAdvice"
+		]
+	},
+	"text": {
+		"status": "extensions",
+		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <table>\n        <caption>Voedingsadvies. Patiënt: Anouk A. Anouk van XXX_Rijn de XXX_Vries. Id: patA-NutritionAdvise (urn:oid:2.16.840.1.113883.2.4.3.11.999.7), Status: actief</caption>\n        <tbody>\n          <tr>\n            <th>Aanvraagdatum</th>\n            <td>\n              <i>onbekend (ontbrekend gegeven)</i>\n            </td>\n          </tr>\n          <tr>\n            <th>Toelichting</th>\n            <td>Wegens verhoogde bloeddruk</td>\n          </tr>\n          <tr>\n            <td colspan=\"2\">\n              <table>\n                <caption>Orale voeding</caption>\n                <thead>\n                  <tr>\n                    <th>Type</th>\n                    <th>Texture</th>\n                    <th>Vloeistofconsistentie</th>\n                  </tr>\n                </thead>\n                <tbody>\n                  <tr>\n                    <td>Natriumarm dieet</td>\n                    <td>Vast<div>Vast</div>\n                    </td>\n                    <td>Vast</td>\n                  </tr>\n                </tbody>\n              </table>\n            </td>\n          </tr>\n        </tbody>\n      </table>\n    </div>"
+	},
+	"extension": [
+		{
+			"url": "http://nictiz.nl/fhir/StructureDefinition/zib-NutritionAdvice-Explanation",
+			"valueString": "Wegens verhoogde bloeddruk"
+		}
+	],
+	"identifier": [
+		{
+			"system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7",
+			"value": "patA-NutritionAdvise"
+		}
+	],
+	"status": "active",
+	"patient": {
+		"reference": "Patient/medmij-bgz-test-patA",
+		"display": "Anouk A. Anouk van XXX_Rijn de XXX_Vries"
+	},
+	"_dateTime": {
+		"extension": [
+			{
+				"url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
+				"valueCode": "unknown"
+			}
+		]
+	},
+	"oralDiet": {
+		"type": [
+			{
+				"text": "Natriumarm dieet"
+			}
+		],
+		"texture": [
+			{
+				"modifier": {
+					"text": "Vast"
+				},
+				"foodType": {
+					"text": "Vast"
+				}
+			}
+		],
+		"fluidConsistencyType": [
+			{
+				"text": "Vast"
+			}
+		]
+	}
+}
