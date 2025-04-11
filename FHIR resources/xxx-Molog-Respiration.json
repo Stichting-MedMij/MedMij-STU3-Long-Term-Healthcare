@@ -57,6 +57,12 @@
     "reference": "Patient/nl-core-patient-eov-cert-1-1b-01",
     "display": "Maria XXX_Molog"
   },
+	"performer": [
+		{
+		"reference": "Organization/nl-core-organization-eov-cert-1-1b-02",
+		"display": "WijZorgen Honselerdijk"
+		}
+	],
   "effectiveDateTime": "2015-03-11T14:47:00Z",
   "component": [
     {
