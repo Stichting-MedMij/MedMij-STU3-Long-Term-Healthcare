@@ -12,7 +12,7 @@
   },
   "text": {
     "status": "extensions",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <table>\n        <caption>Toestemming. Patiënt: Maria XXX_Molog. Id: 8acf99eb-e3e1-11eb-1709-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie: <span title=\"behandelaanwijzing (11291000146105 - SNOMED CT)\">behandelaanwijzing</span>, Status: actief</caption>\n        <tbody>\n          <tr>\n            <th>Geldigheidsperiode</th>\n            <td>Vanaf 2025-02-18T00:00:00+01:00</td>\n          </tr>\n          <tr>\n            <th>Geverifieerd</th>\n            <td>ja - 2025-02-18T00:00:00+01:00 - <span title=\"Patiënt (116154003 - SNOMED CT)\">Patiënt</span>\n            </td>\n          </tr>\n          <tr>\n            <th>\n              <span title=\"Cardiopulmonaire resuscitatie (89666000 - SNOMED CT)\">Cardiopulmonaire resuscitatie</span>\n            </th>\n            <td>\n              <span title=\"Behandeling niet toegestaan en/of wenselijk (NEE - 2.16.840.1.113883.2.4.3.11.60.40.4)\">Behandeling niet toegestaan en/of wenselijk</span>\n            </td>\n          </tr>\n          <tr>\n            <th>Bron </th>\n            <td>Niet reanimeren verklaring - Fiona XXX_Mutter - 2018-01-20T00:00:00Z</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>"
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <table>\n        <caption>Toestemming. Patiënt: Maria XXX_Molog. Id: 8acf99eb-e3e1-11eb-1709-020000000000 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie: <span title=\"behandelaanwijzing (11291000146105 - SNOMED CT)\">behandelaanwijzing</span>, Status: actief</caption>\n        <tbody>\n          <tr>\n            <th>Geldigheidsperiode</th>\n            <td>Vanaf 2024-03-20T00:00:00+01:00</td>\n          </tr>\n          <tr>\n            <th>Geverifieerd</th>\n            <td>ja - 2024-03-20T00:00:00+01:00 - <span title=\"Patiënt (116154003 - SNOMED CT)\">Patiënt</span>\n            </td>\n          </tr>\n          <tr>\n            <th>\n              <span title=\"Artificial respiration (40617009 - SNOMED CT)\">Artificial respiration</span>\n            </th>\n            <td>\n              <span title=\"Behandeling niet toegestaan en/of wenselijk (NEE - 2.16.840.1.113883.2.4.3.11.60.40.4)\">Behandeling niet toegestaan en/of wenselijk</span>\n            </td>\n          </tr>\n          <tr>\n            <th>Bron </th>\n            <td>Niet reanimeren verklaring - Maria XXX_Molog - 2020-01-20T00:00:00Z</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>"
   },
   "extension": [ {
     "url": "http://nictiz.nl/fhir/StructureDefinition/zib-TreatmentDirective-Verification",
@@ -37,8 +37,8 @@
     "valueCodeableConcept": {
       "coding": [ {
         "system": "http://snomed.info/sct",
-        "code": "89666000",
-        "display": "Cardiopulmonaire resuscitatie"
+        "code": "40617009",
+        "display": "Artificial respiration"
       } ]
     }
   } ],
@@ -54,7 +54,7 @@
   } ],
   "identifier": {
     "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-    "value": "8acf99eb-e3e1-11eb-1709-020000000000"
+    "value": "63159dc9-bc44-47a2-8a10-95191b078e35"
   },
   "status": "active",
   "category": [ {
@@ -73,7 +73,7 @@
   },
   "sourceReference": {
     "reference": "Consent/ont-ver-bglz-1-1-wilsverklaring-01",
-    "display": "Niet reanimeren verklaring - Fiona XXX_Mutter - 2018-01-20T00:00:00Z"
+    "display": "Niet reanimeren verklaring - Fiona XXX_Mutter - 2020-01-20T00:00:00Z"
   },
   "policy": [ {
     "uri": "http://wetten.overheid.nl/"
