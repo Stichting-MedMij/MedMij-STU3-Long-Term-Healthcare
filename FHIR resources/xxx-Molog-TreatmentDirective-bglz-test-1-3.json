@@ -1,6 +1,6 @@
 {
   "resourceType": "Consent",
-  "id": "Behandelaanwijzing-bglz-test-1-3",
+  "id": "TreatmentDirective-bglz-test-1-3",
   "meta": {
     "extension": [ {
       "url": "http://hapifhir.io/fhir/StructureDefinition/resource-meta-source",
