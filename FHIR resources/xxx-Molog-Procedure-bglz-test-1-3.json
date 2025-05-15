@@ -10,14 +10,6 @@
     "lastUpdated": "2025-02-18T10:35:04.300+00:00",
     "profile": [ "http://nictiz.nl/fhir/StructureDefinition/zib-Procedure" ]
   },
-  "text": {
-    "status": "extensions",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <table>\n        <caption>Verrichting. Subject: Maria XXX_Molog, Categorie: <span title=\"verrichting (71388002 - SNOMED CT)\">verrichting</span>, Status: voltooid<span style=\"display: block;\">Uitvoerende: AA-zkh - Noord</span>\n          <span style=\"display: block;\">Uitvoerende (<span title=\"Hoofdbehandelaar (RESP - v3/ParticipationType)\">Hoofdbehandelaar</span>): Niels Helmond<span style=\"display: block;\">Zorgverlenerrol: Neuroloog</span>\n          </span>\n        </caption>\n        <tbody>\n          <tr>\n            <td>\n              <span title=\"percutane trombolyse van intracraniële arterie (230935003 - SNOMED CT)\">percutane trombolyse van intracraniële arterie</span>\n            </td>\n            <td>\n              <div>Uitgevoerd: 2025-02-18T00:00:00+01:00 - 2025-02-18T00:00:00+01:00</div>\n            </td>\n          </tr>\n          <tr>\n            <th>Gebaseerd op</th>\n            <td>Aanvraag voor percutane trombolyse van intracraniële arterie</td>\n          </tr>\n          <tr>\n            <th>Reden</th>\n            <td>ischemisch cerebrovasculair accident</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>"
-  },
-  "identifier": [ {
-    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-    "value": "9463fe6b-e3e1-11eb-1884-020000000000"
-  } ],
   "basedOn": [ {
     "reference": "ProcedureRequest/ont-ver-bglz-1-1-verrichting-aanvraag-02",
     "display": "Aanvraag voor percutane trombolyse van intracraniële arterie"
