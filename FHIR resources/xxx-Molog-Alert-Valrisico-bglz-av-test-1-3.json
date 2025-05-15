@@ -39,7 +39,7 @@
 		"text": "verhoogd valrisico"
 	},
 	"subject": {
-		"reference": "Patient/nl-core-patient-eov-cert-1-1b-01",
+		"reference": "Patient/Patient-bglz-test-1-3",
 		"display": "Maria XXX_Molog"
 	},
 	"period": {
