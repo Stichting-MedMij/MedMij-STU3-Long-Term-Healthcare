@@ -1,0 +1,71 @@
+{
+    "resourceType": "Practitioner",
+    "id": "nl-core-practitioner-eov-test-1-1b-01",
+    "meta": {
+        "extension": [
+            {
+                "url": "http://hapifhir.io/fhir/StructureDefinition/resource-meta-source",
+                "valueUri": "#bc49b758ba8bc3d2"
+            }
+        ],
+        "versionId": "2",
+        "lastUpdated": "2025-02-28T06:58:53.987+00:00",
+        "profile": [
+            "http://fhir.nl/fhir/StructureDefinition/nl-core-practitioner"
+        ]
+    },
+    "text": {
+        "status": "extensions",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <div>\n        <span title=\"Naamsamenstelling: Eigennaam\">Charlotte Maria C.M. Bruinsma</span> (Lotte)</div>\n    </div>"
+    },
+    "name": [
+        {
+            "extension": [
+                {
+                    "url": "http://hl7.org/fhir/StructureDefinition/humanname-assembly-order",
+                    "valueCode": "NL1"
+                }
+            ],
+            "family": "Bruinsma",
+            "_family": {
+                "extension": [
+                    {
+                        "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
+                        "valueString": "Bruinsma"
+                    }
+                ]
+            },
+            "given": [
+                "Charlotte Maria",
+                "C.M.",
+                "Lotte"
+            ],
+            "_given": [
+                {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                            "valueCode": "BR"
+                        }
+                    ]
+                },
+                {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                            "valueCode": "IN"
+                        }
+                    ]
+                },
+                {
+                    "extension": [
+                        {
+                            "url": "http://hl7.org/fhir/StructureDefinition/iso21090-EN-qualifier",
+                            "valueCode": "CL"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
