@@ -1,0 +1,40 @@
+{
+	"resourceType": "PractitionerRole",
+	"id": "nl-core-practitionerrole-eov-test-1-1b-03",
+	"meta": {
+		"extension": [
+			{
+				"url": "http://hapifhir.io/fhir/StructureDefinition/resource-meta-source",
+				"valueUri": "#94c578d2dc991f34"
+			}
+		],
+		"versionId": "1",
+		"lastUpdated": "2025-02-28T06:59:40.083+00:00",
+		"profile": [
+			"http://fhir.nl/fhir/StructureDefinition/nl-core-practitionerrole"
+		]
+	},
+	"text": {
+		"status": "extensions",
+		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <table>\n        <caption>Zorgverlenerrol. </caption>\n        <tbody>\n          <tr>\n            <th>Zorgverlener</th>\n            <td>\n              <div>J.P. Helmond</div>\n              <div>AB-Zkh Noord</div>\n            </td>\n          </tr>\n          <tr>\n            <th>Specialisme</th>\n            <td>\n              <span title=\"Medisch specialisten, neurologie (0330 - AGB-medisch specialisme)\">Medisch specialisten, neurologie</span>\n            </td>\n          </tr>\n        </tbody>\n      </table>\n    </div>"
+	},
+	"practitioner": {
+		"reference": "Practitioner/nl-core-practitioner-eov-test-1-1b-03",
+		"display": "J.P. Helmond"
+	},
+	"organization": {
+		"reference": "Organization/nl-core-organization-eov-test-1-1b-01",
+		"display": "AB-Zkh Noord"
+	},
+	"specialty": [
+		{
+			"coding": [
+				{
+					"system": "urn:oid:2.16.840.1.113883.2.4.6.7",
+					"code": "0330",
+					"display": "Medisch specialisten, neurologie"
+				}
+			]
+		}
+	]
+}
