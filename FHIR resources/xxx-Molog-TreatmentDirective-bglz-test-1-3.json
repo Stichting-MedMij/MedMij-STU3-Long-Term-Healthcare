@@ -72,8 +72,8 @@
     "start": "2024-03-20T00:00:00+01:00"
   },
   "sourceReference": {
-    "reference": "Consent/ont-ver-bglz-1-1-wilsverklaring-01",
-    "display": "Niet reanimeren verklaring - Fiona XXX_Mutter - 2020-01-20T00:00:00Z"
+    "reference": "Consent/AdvanceDirective-bglz-test-1-3",
+    "display": "Niet reanimeren verklaring - Maria XXX_Molog - 2020-01-20T00:00:00Z"
   },
   "policy": [ {
     "uri": "http://wetten.overheid.nl/"
