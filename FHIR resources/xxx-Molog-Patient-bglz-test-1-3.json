@@ -29,7 +29,7 @@
 		"valueCode": "NL1"
 	  } ],
 	  "text": "Maria XXX_Molog",
-	  "family": "XXX_Mologr",
+	  "family": "XXX_Molog",
 	  "_family": {
 		"extension": [ {
 		  "url": "http://hl7.org/fhir/StructureDefinition/humanname-own-name",
