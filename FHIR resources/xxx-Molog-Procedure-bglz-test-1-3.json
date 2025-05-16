@@ -1,6 +1,6 @@
 {
   "resourceType": "Procedure",
-  "id": "ont-ver-bglz-1-1-verrichting-02",
+  "id": "Procedure-bglz-test-1-3",
   "meta": {
     "extension": [ {
       "url": "http://hapifhir.io/fhir/StructureDefinition/resource-meta-source",
