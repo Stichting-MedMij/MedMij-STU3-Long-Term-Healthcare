@@ -43,6 +43,10 @@
             "reference": "Condition/Problem-bglz-test-1-3",
             "display": "ziekte van Parkinson"
           } ],
+          "goal": [ {
+            "reference": "Goal/Goal-bglz-test-1-3",
+            "display": "zelfstandig aankleden"
+          } ],
           "status": "completed",
           "scheduledTiming": {
             "repeat": {
