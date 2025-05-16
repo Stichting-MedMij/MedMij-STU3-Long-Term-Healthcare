@@ -10,10 +10,6 @@
     "lastUpdated": "2025-02-18T10:35:04.300+00:00",
     "profile": [ "http://nictiz.nl/fhir/StructureDefinition/zib-Procedure" ]
   },
-  "basedOn": [ {
-    "reference": "ProcedureRequest/ont-ver-bglz-1-1-verrichting-aanvraag-02",
-    "display": "Aanvraag voor percutane trombolyse van intracraniële arterie"
-  } ],
   "status": "completed",
   "category": {
     "coding": [ {
