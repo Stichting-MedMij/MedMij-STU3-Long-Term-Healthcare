@@ -10,6 +10,10 @@
     "lastUpdated": "2025-02-18T10:35:04.300+00:00",
     "profile": [ "http://nictiz.nl/fhir/StructureDefinition/zib-Procedure" ]
   },
+  "identifier": [ {
+    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+    "value": "9939810f-b8f6-4855-b7c5-0edf5378919f"
+  } ],
   "status": "completed",
   "category": {
     "coding": [ {

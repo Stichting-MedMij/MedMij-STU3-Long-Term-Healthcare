@@ -18,6 +18,12 @@
 		"status": "extensions",
 		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <table>\n        <caption>Voedingsadvies. Patiënt: Maria XXX_Molog. Status: actief</caption>\n        <tbody>\n          <tr>\n            <th>Aanvraagdatum</th>\n            <td>2015-03-17</td>\n          </tr>\n          <tr>\n            <th>Toelichting</th>\n            <td>in verband met allergie</td>\n          </tr>\n          <tr>\n            <td colspan=\"2\">\n              <table>\n                <caption>Orale voeding</caption>\n                <thead>\n                  <tr>\n                    <th>Type</th>\n                  </tr>\n                </thead>\n                <tbody>\n                  <tr>\n                    <td>geen selderij</td>\n                  </tr>\n                </tbody>\n              </table>\n            </td>\n          </tr>\n        </tbody>\n      </table>\n    </div>"
 	},
+	"identifier": [
+		{
+			"system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+			"value": "6080f0ec-fe28-49bd-9aff-890843b3d6e1"
+		}
+	],
 	"extension": [
 		{
 			"url": "http://nictiz.nl/fhir/StructureDefinition/zib-NutritionAdvice-Explanation",

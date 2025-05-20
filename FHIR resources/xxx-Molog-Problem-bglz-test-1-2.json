@@ -14,6 +14,10 @@
     "status": "extensions",
     "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <table>\n        <caption>Aandoening. Subject: Maria XXX_Molog. Categorie: <span title=\"Diagnose (282291009 - SNOMED CT)\">Diagnose</span>, Status: actief / bevestigd</caption>\n        <tfoot>\n          <tr>\n            <td colspan=\"2\">naast beven ook somberheid en moeheid</td>\n          </tr>\n        </tfoot>\n        <tbody>\n          <tr>\n            <th>Code</th>\n            <td>\n              <span title=\"ziekte van Parkinson (49049000 - SNOMED CT)\">ziekte van Parkinson</span>\n            </td>\n          </tr>\n          <tr>\n            <th>Eerste symptomen</th>\n            <td>2022-05-15</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>"
   },
+  "identifier": [ {
+    "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+    "value": "13243016-53e7-4a5f-a2c5-c813ab7610c0"
+  } ],
   "clinicalStatus": "active",
   "_clinicalStatus": {
     "extension": [ {

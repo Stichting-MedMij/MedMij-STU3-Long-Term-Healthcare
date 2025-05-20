@@ -18,6 +18,10 @@
 		"status": "extensions",
 		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <table>\n        <caption>Observatie/bepaling. Subject: Maria XXX_Molog. Status: voorlopig</caption>\n        <tbody>\n          <tr>\n            <th>Bepalingdatum/tijd</th>\n            <td>2025-03-14T07:00:00+02:00 - 2025-03-15T07:00:00+02:00</td>\n          </tr>\n          <tr>\n            <th>Code</th>\n            <th>Waarde</th>\n          </tr>\n          <tr>\n            <td>\n              <span title=\"Fluid balance observable (364396009 - SNOMED CT)\">Fluid balance observable</span>\n            </td>\n            <td/>\n          </tr>\n          <tr>\n            <td>\n              <span title=\"Total fluid input (251852001 - SNOMED CT)\">Total fluid input</span>\n            </td>\n            <td>1400 mL</td>\n          </tr>\n          <tr>\n            <td>\n              <span title=\"Total fluid output (251841007 - SNOMED CT)\">Total fluid output</span>\n            </td>\n            <td>1000 mL</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>"
 	},
+	"identifier": [ {
+		"system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+		"value": "0d5317d1-a6ee-4bab-b727-98ff334699ee"
+	  } ],
 	"status": "preliminary",
 	"code": {
 		"coding": [

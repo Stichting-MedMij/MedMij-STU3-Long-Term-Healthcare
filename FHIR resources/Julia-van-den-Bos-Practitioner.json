@@ -18,6 +18,10 @@
 		"status": "extensions",
 		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <div>\n        <span title=\"Naamsamenstelling: Eigennaam\">Julia van den Bos</span> (Lieke)</div>\n    </div>"
 	},
+	"identifier": [ {
+        "system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
+        "value": "a65ce272-b6f9-4afb-b836-37f2f8e0ab40"
+      } ],
 	"name": [
 		{
 			"extension": [
