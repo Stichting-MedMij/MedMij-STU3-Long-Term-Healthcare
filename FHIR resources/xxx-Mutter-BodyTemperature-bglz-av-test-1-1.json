@@ -55,12 +55,12 @@
 	],
 	"effectiveDateTime": "2025-05-16T07:00:00+01:00",
 	"valueQuantity": {
-		"value": 38.6,
+		"value": 40,
 		"unit": "Cel",
 		"system": "http://unitsofmeasure.org",
 		"code": "Cel"
 	},
-	"comment": "voeten voelen heel koud aan",
+	"comment": "hoofd voelt heel warm aan",
 	"method": {
 		"coding": [
 			{
