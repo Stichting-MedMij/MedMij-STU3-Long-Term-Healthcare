@@ -36,6 +36,12 @@
 		"reference": "Patient/XXX-Valk",
 		"display": "Gea G. XXX_Valk"
 	},
+	"performer": [
+		{
+		"reference": "Organization/Organization-bglz-av-test-1-2",
+		"display": "WijkverplegingOrg Zuid"
+		}
+	],
 	"valueCodeableConcept": {
 		"coding": [
 			{
