@@ -1,27 +1,27 @@
 {
 	"resourceType": "Observation",
-	"id": "PulseRate-bglz-av-test-1-1",
+	"id": "PulseRate-bglz-av-test-1-2",
 	"meta": {
 		"extension": [
 			{
 				"url": "http://hapifhir.io/fhir/StructureDefinition/resource-meta-source",
-				"valueUri": "#dba50761d3564c18"
+				"valueUri": "#856b292b2354d969"
 			}
 		],
 		"versionId": "1",
-		"lastUpdated": "2025-05-20T02:07:00.418+00:00",
+		"lastUpdated": "2025-05-21T02:06:20.591+00:00",
 		"profile": [
 			"http://nictiz.nl/fhir/StructureDefinition/zib-PulseRate"
 		]
 	},
 	"text": {
 		"status": "extensions",
-		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <table>\n        <caption>Observatie/bepaling. Subject: Fiona XXX_Mutter. Id: e170f8f1-c0f5-4638-89f5-b337b4ad8527 (urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6), Categorie: <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief<span style=\"display: block;\">Uitvoerende: ThuiszorgOrg Noord</span>\n        </caption>\n        <tbody>\n          <tr>\n            <th>Bepalingdatum/tijd</th>\n            <td>2023-03-29T00:00:00+02:00</td>\n          </tr>\n          <tr>\n            <th>Code</th>\n            <th>Waarde</th>\n          </tr>\n          <tr>\n            <td>\n              <span title=\"Heart rate Peripheral artery by Palpation (8893-0 - LOINC)\">Heart rate Peripheral artery by Palpation</span>\n            </td>\n            <td>72 /min</td>\n          </tr>\n          <tr>\n            <td>\n              <span title=\"Heart rate rhythm (44969-4 - LOINC)\">Heart rate rhythm</span>\n            </td>\n            <td>\n              <span title=\"onregelmatige polsslag (61086009 - SNOMED CT)\">onregelmatige polsslag</span>\n            </td>\n          </tr>\n        </tbody>\n      </table>\n    </div>"
+		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n      <table>\n        <caption>Observatie/bepaling. Subject: Gea G. XXX_Valk., Categorie: <span title=\"Vital Signs (vital-signs - observation-category)\">Vital Signs</span>, Status: definitief<span style=\"display: block;\">Uitvoerende: Dominique XXX_Smorenburg</span>\n        </caption>\n        <tbody>\n          <tr>\n            <th>Bepalingdatum/tijd</th>\n            <td>2020-01-31T00:00:00+02:00</td>\n          </tr>\n          <tr>\n            <th>Code</th>\n            <th>Waarde</th>\n          </tr>\n          <tr>\n            <td>\n              <span title=\"Heart rate Peripheral artery by Palpation (8893-0 - LOINC)\">Heart rate Peripheral artery by Palpation</span>\n            </td>\n            <td>96 /min</td>\n          </tr>\n          <tr>\n            <td>\n              <span title=\"Heart rate rhythm (44969-4 - LOINC)\">Heart rate rhythm</span>\n            </td>\n            <td>\n              <span title=\"regelmatige polsslag (271636001 - SNOMED CT)\">regelmatige polsslag</span>\n            </td>\n          </tr>\n        </tbody>\n      </table>\n    </div>"
 	},
 	"identifier": [
 		{
 			"system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-			"value": "e170f8f1-c0f5-4638-89f5-b337b4ad8527"
+			"value": "8be6e755-aae6-4125-8846-2df3810684a4"
 		}
 	],
 	"status": "final",
@@ -45,19 +45,19 @@
 			}
 		]
 	},
+	"effectiveDateTime": "2020-01-31T00:00:00+02:00",
 	"subject": {
-		"reference": "Patient/XXX-Mutter",
-		"display": "Fiona XXX_Mutter"
+		"reference": "Patient/XXX-Valk",
+		"display": "Gea G. XXX_Valk"
 	},
-	"effectiveDateTime": "2023-03-29T00:00:00+02:00",
 	"performer": [
 		{
-		"reference": "Organization/Organization-bglz-av-test-1-1",
-		"display": "ThuiszorgOrg Noord"
+		"reference": "Organization/Organization-bglz-av-test-1-2",
+		"display": "WijkverplegingOrg Zuid"
 		}
 	],
 	"valueQuantity": {
-		"value": 72,
+		"value": 96,
 		"unit": "/min",
 		"system": "http://unitsofmeasure.org",
 		"code": "/min"
@@ -77,8 +77,8 @@
 				"coding": [
 					{
 						"system": "http://snomed.info/sct",
-						"code": "61086009",
-						"display": "onregelmatige polsslag"
+						"code": "271636001",
+						"display": "regelmatige polsslag"
 					}
 				]
 			}
