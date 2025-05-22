@@ -16,7 +16,7 @@
 	},
 	"text": {
 		"status": "generated",
-		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Dagrapportage - Verpleegkundig Rapport</h3><table class=\"grid\"><tr><td><b>Patiënt:</b></td><td>Fiona XXX_Mutter</td></tr><tr><td><b>Datum/Tijd:</b></td><td>17 mei 2025, 16:45</td></tr><tr><td><b>Zorgverlener:</b></td><td>ThuiszorgOrg Noord</td></tr><tr><td><b>Type rapport:</b></td><td>Patient encounter report</td></tr><tr><td><b>Status:</b></td><td>Geregistreerd</td></tr></table><h4>Observatie:</h4><p>Patiënt heeft moeite met het begrijpen en produceren van gesproken taal. Tijdens het ochtendcontact kon ze haar behoefte aan hulp bij het wassen niet verbaal aangeven, maar maakte gebruik van gebaren. Er is ondersteuning geboden bij ADL. Geadviseerd om pictogrammen te gebruiken en overleg met logopedie is aangevraagd.</p></div>"
+		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Dagrapportage</h3><table class=\"grid\"><tr><td><b>Patiënt:</b></td><td>Fiona XXX_Mutter</td></tr><tr><td><b>Datum/Tijd:</b></td><td>17 mei 2025, 16:45</td></tr><tr><td><b>Zorgverlener:</b></td><td>ThuiszorgOrg Noord</td></tr><tr><td><b>Type rapport:</b></td><td>Patient encounter report</td></tr><tr><td><b>Status:</b></td><td>Geregistreerd</td></tr></table><h4>Observatie:</h4><p>Patiënt heeft moeite met het begrijpen en produceren van gesproken taal. Tijdens het ochtendcontact kon ze haar behoefte aan hulp bij het wassen niet verbaal aangeven, maar maakte gebruik van gebaren. Er is ondersteuning geboden bij ADL. Geadviseerd om pictogrammen te gebruiken en overleg met logopedie is aangevraagd.</p></div>"
 	},
 	"identifier": [ {
 		"system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
