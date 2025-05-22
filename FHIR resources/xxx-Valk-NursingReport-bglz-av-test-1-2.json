@@ -16,11 +16,11 @@
 	},
 	"text": {
 		"status": "generated",
-		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Dagrapportage - Verpleegkundig Rapport</h3><table class=\"grid\"><tr><td><b>Patiënt:</b></td><td>Gea G. XXX_Valk</td></tr><tr><td><b>Datum/Tijd:</b></td><td>17 mei 2025, 16:45</td></tr><tr><td><b>Zorgverlener:</b></td><td>WijkverplegingOrg Zuid</td></tr><tr><td><b>Type rapport:</b></td><td>Patient encounter report</td></tr><tr><td><b>Status:</b></td><td>Geregistreerd</td></tr></table><h4>Observatie:</h4><p>Bij inspectie van de huid tijdens de ochtend is een decubituswond stadium 2 vastgesteld op de linkerhiel. De huid is open met oppervlakkige beschadiging, roodheid en vochtige wondranden. Wond is gereinigd met NaCl 0.9%, bedekt met schuimverband. Patiënt ervaart lichte pijn bij aanraking. Extra kussens geplaatst om druk te verminderen. Wondverpleegkundige is geconsulteerd.</p></div>"
+		"div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Dagrapportage</h3><table class=\"grid\"><tr><td><b>Patiënt:</b></td><td>Gea G. XXX_Valk</td></tr><tr><td><b>Datum/Tijd:</b></td><td>17 mei 2025, 16:45</td></tr><tr><td><b>Zorgverlener:</b></td><td>WijkverplegingOrg Zuid</td></tr><tr><td><b>Type rapport:</b></td><td>Patient encounter report</td></tr><tr><td><b>Status:</b></td><td>Geregistreerd</td></tr></table><h4>Observatie:</h4><p>Bij inspectie van de huid tijdens de ochtend is een decubituswond stadium 2 vastgesteld op de linkerhiel. De huid is open met oppervlakkige beschadiging, roodheid en vochtige wondranden. Wond is gereinigd met NaCl 0.9%, bedekt met schuimverband. Patiënt ervaart lichte pijn bij aanraking. Extra kussens geplaatst om druk te verminderen. Wondverpleegkundige is geconsulteerd.</p></div>"
 	},
 	"identifier": [ {
 		"system": "urn:oid:2.16.840.1.113883.2.4.3.11.999.7.6",
-		"value": "35d1c438-78a7-461a-80a6-2ea4f36ef52a"
+		"value": "b48ce52c-4b94-4b82-a4d9-dd60db5edb52"
 	  } ],
 	"extension": [
 		{
