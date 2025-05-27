@@ -32,7 +32,7 @@
 				{
 					"system": "http://nictiz.nl/fhir/NamingSystem/organization-type",
 					"code": "T2",
-					"display": "ThuiszorgOrg Noord"
+					"display": "Thuiszorg"
 				}
 			]
 		},
