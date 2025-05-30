@@ -42,7 +42,7 @@
 	},
 	"payor": [
 		{
-			"reference": "Organization/nl-core-organization-eov-test-1-3b-03",
+			"reference": "Organization/Organization-bglz-av-test-1-1",
 			"display": "Trias"
 		}
 	]
