@@ -45,7 +45,7 @@
 	},
 	"payor": [
 		{
-			"reference": "Organization/nl-core-organization-eov-cert-1-1b-04",
+			"reference": "Organization/Organization-bglz-test-1-3",
 			"display": "Menzis"
 		}
 	]
