@@ -1,15 +1,15 @@
 {
 	"resourceType": "Patient",
-	"id": "XXX-Mutter",
+	"id": "ont-ver-XXX-Mutter",
 	"meta": {
 		"extension": [
 			{
 				"url": "http://hapifhir.io/fhir/StructureDefinition/resource-meta-source",
-				"valueUri": "#9453552b23bae329"
+				"valueUri": "#80eaf9d6e633dd0a"
 			}
 		],
-		"versionId": "4",
-		"lastUpdated": "2025-05-15T02:06:38.707+00:00",
+		"versionId": "2",
+		"lastUpdated": "2025-02-18T10:35:17.572+00:00",
 		"profile": [
 			"http://fhir.nl/fhir/StructureDefinition/nl-core-patient"
 		]
@@ -269,12 +269,12 @@
 				{
 					"url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
 					"valueReference": {
-						"reference": "PractitionerRole/bglz-1-1-zorgverlenerrol-01",
+						"reference": "PractitionerRole/ont-ver-bglz-1-1-zorgverlenerrol-01",
 						"display": "Huisarts"
 					}
 				}
 			],
-			"reference": "Practitioner/bglz-1-1-zorgverlener-01",
+			"reference": "Practitioner/ont-ver-bglz-1-1-zorgverlener-01",
 			"display": "Laura Lanen"
 		}
 	]
