@@ -1,6 +1,6 @@
 {
 	"resourceType": "Patient",
-	"id": "ont-ver-XXX-Mutter",
+	"id": "XXX-Mutter",
 	"meta": {
 		"extension": [
 			{
@@ -269,12 +269,12 @@
 				{
 					"url": "http://nictiz.nl/fhir/StructureDefinition/practitionerrole-reference",
 					"valueReference": {
-						"reference": "PractitionerRole/ont-ver-bglz-1-1-zorgverlenerrol-01",
+						"reference": "PractitionerRole/bglz-1-1-zorgverlenerrol-01",
 						"display": "Huisarts"
 					}
 				}
 			],
-			"reference": "Practitioner/ont-ver-bglz-1-1-zorgverlener-01",
+			"reference": "Practitioner/bglz-1-1-zorgverlener-01",
 			"display": "Laura Lanen"
 		}
 	]
